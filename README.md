@@ -1,6 +1,8 @@
 # Installing the PyCRTM 
 #### Anna Hall (July 2025)
-If you are not Fortran inclined like myself, the PyCRTM is a nice and easy python wrapper for the Community Radiative Transfer Model (CRTM). The following steps provide a detailed installation guide for PyCRTM that interfaces with CRTMv3, I think it should also work with v2. The original pyCRTM is written mainly by Bryan M. Karpowicz, this repository will only provide elementary level instructions and further examples on how to use the interface. 
+If you are not Fortran inclined like myself, the PyCRTM is a nice and easy python wrapper for the Community Radiative Transfer Model (CRTM). The following steps provide a detailed installation guide for PyCRTM that interfaces with CRTMv3, I think it should also work with v2. The original pyCRTM is written mainly by Bryan M. Karpowicz, this repository will only provide elementary level instructions and further examples on how to use the interface. This is all done in the command line.
+
+NOTE: This was not easy for someone who is wildly impatient! Trust me when I tell you, I probably have already found all of the possible errors due to my haste!
 
 # Steps for Installation
 #### 1. clone Bryan's Repository
