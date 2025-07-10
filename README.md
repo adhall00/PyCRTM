@@ -6,7 +6,7 @@ NOTE: This was not easy for someone who is wildly impatient! Trust me when I tel
 
 This is the link to the origianl pyCRTM repository: [Bryan's Repo](https://github.com/JCSDA/pycrtm)
 
-# Steps for Installation
+## Steps for Installation
 #### 1. clone Bryan's Repository
 ```bash
 git clone https://github.com/JCSDA/pycrtm.git
