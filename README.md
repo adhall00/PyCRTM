@@ -4,6 +4,8 @@ If you are not Fortran inclined like myself, the PyCRTM is a nice and easy pytho
 
 NOTE: This was not easy for someone who is wildly impatient! Trust me when I tell you, I probably have already found all of the possible errors due to my haste!
 
+This is the link to the origianl pyCRTM repository: [Bryan's Repo](https://github.com/JCSDA/pycrtm)
+
 # Steps for Installation
 #### 1. clone Bryan's Repository
 ```bash
