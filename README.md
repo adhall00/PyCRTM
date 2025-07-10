@@ -65,7 +65,7 @@ conda install -c conda-forge jupyterlab
 Just as a side note...pycrtm may not have your favorite packages installed, just install them as you go. I think I had to install cartopy, metpy, and maybe xarray.
 
 ---
-#### If you are interested in reading all about the PyCRTM (for coefficients, the specific progression of the model, and documentation for how things work)
+#### If you are interested in reading all about the CRTM (for coefficients, the specific progression of the model, and documentation for how things work)
 1. [JCSDA CRTM Project Page](https://www.jcsda.org/jcsda-project-community-radiative-transfer-model)
 2. [CRTM Overview in BAMS](https://doi.org/10.1175/BAMS-D-22-0015.1)
 3. [CRTM on Zenodo (User's Manual PDF)](https://zenodo.org/records/13646883)
