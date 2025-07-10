@@ -64,7 +64,7 @@ python testCases/test_cris.py
 conda install -c conda-forge jupyterlab
 ```
 ---
-Just as a side note...pycrtm may not have your favorite packages installed, just install them as you go. I think I had to install cartopy, metpy, and maybe xarray.
+Just as a side note...the pycrtm environment may not have your favorite packages installed, just install them as you go. I think I had to install cartopy, metpy, and maybe xarray.
 
 ---
 #### If you are interested in reading all about the CRTM (for coefficients, the specific progression of the model, and documentation for how things work)
