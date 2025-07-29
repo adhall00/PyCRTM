@@ -76,7 +76,7 @@ Just as a side note...the pycrtm environment may not have your favorite packages
 4. 
 
 ### For Fortran Users
-'''
+'''bash
 conda activate pycrtm
 gfortran -fopenmp -o CRTM_Model_Simulator CRTM_Model_Simulator.f90 \
   -I/home/adhall2/environment1/ScratchFolder/CRTMv2.4/crtm/src/Build/crtm_v2.4.0-alpha/include \
