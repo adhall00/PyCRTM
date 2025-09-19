@@ -75,15 +75,9 @@ Just as a side note...the pycrtm environment may not have your favorite packages
 3. [CRTM on Zenodo (User's Manual PDF)](https://zenodo.org/records/13646883)
    
 
-### For Fortran Users
-```bash
-conda activate pycrtm
-gfortran -fopenmp -o CRTM_Model_Simulator CRTM_Model_Simulator.f90 \
-  -I/home/adhall2/environment1/ScratchFolder/CRTMv2.4/crtm/src/Build/crtm_v2.4.0-alpha/include \
-  -L/home/adhall2/environment1/ScratchFolder/CRTMv2.4/crtm/src/Build/crtm_v2.4.0-alpha/lib \
-  -lcrtm \
-  $(nf-config --fflags) $(nf-config --flibs)
-```
+### Following the attached jupyter notebook, this is the beautiful figure we can make...
+<img width="1037" height="557" alt="image" src="https://github.com/user-attachments/assets/9dde71b0-5599-433a-bdd6-740f830f341e" />
+
 
 
 
